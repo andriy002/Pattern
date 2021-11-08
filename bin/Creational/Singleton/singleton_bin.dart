@@ -1,5 +1,3 @@
-import 'package:pattern/singleton/bin_singleton.dart' as bin_singleton;
-
 import 'singleton.dart';
 
 void main() {
